@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/mainFragment">
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.mepark.easycook.ui.main.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" />
+
+    <fragment
+        android:id="@+id/recipeFragment"
+        android:name="com.mepark.easycook.ui.main.RecipeFragment"
+        android:label="fragment_recipe"
+        tools:layout="@layout/fragment_recipe"/>
+    <fragment
+        android:id="@+id/refrigeratorFragment"
+        android:name="com.mepark.easycook.ui.main.RefrigeratorFragment"
+        android:label="fragment_refrigerator"
+        tools:layout="@layout/fragment_refrigerator"/>
+</navigation>
