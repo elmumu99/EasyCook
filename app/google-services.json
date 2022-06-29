@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "30691377847",
+    "project_id": "easycook-ee1a9",
+    "storage_bucket": "easycook-ee1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30691377847:android:37edcccf63e0af8556c332",
+        "android_client_info": {
+          "package_name": "com.mepark.easycook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30691377847-bn9e0qt697pe8rb0f2i350v2pr0g5qe9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mepark.easycook",
+            "certificate_hash": "cca7f5323dcaf3f94febf2a0a2e9d938c69d6ece"
+          }
+        },
+        {
+          "client_id": "30691377847-5amnqhgpje24honpmgst1rss5c46ipmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByqbn6NQA24F1628Gm7ugRt5yW_ufaOIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30691377847-5amnqhgpje24honpmgst1rss5c46ipmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
